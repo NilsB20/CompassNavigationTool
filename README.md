@@ -1,4 +1,4 @@
-# compass
+# Custom-Compass
 A custom compass that points at any direction you want
 ![Screenshot](screenshot.png)
 

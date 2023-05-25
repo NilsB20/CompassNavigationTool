@@ -1,0 +1,10 @@
+name: NavigationCompass
+version: '${project.version}'
+main: me.nilsb20.navigationcompass.NavigationCompass
+api-version: 1.19
+authors: [ NilsB20 ]
+description: A compass that helps you navigate to a certain location
+commands:
+  navigate:
+    description: Make you're compass navigate to a location
+    usage: /navigate <location> or /navigate stop
